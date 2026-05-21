@@ -102,7 +102,7 @@ export default function ProjectDetailPage() {
       </div>
     ) : (
       <div className="flex aspect-video w-full items-center justify-center rounded-2xl border border-dashed border-white/20 text-slate-500">
-        Add project cover image here
+        No cover image available
       </div>
     )}
   </div>
